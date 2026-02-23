@@ -15,11 +15,8 @@ What I build & share here
 
 | Repo | What it covers |
 |---|---|
-
 | [Enterprise GenAI Adoption Framework](#) | 0% → 43.2% adoption · $9.9M saved · VP charter template |
-
 | [Ops Market Launch Playbook](#) | Zero-defect international launches · 5 countries/year |
-
 | [Cost Transformation Toolkit](#) | $130M+ savings · SQL templates · Kaizen frameworks |
 
 🔗 [LinkedIn](https://linkedin.com/in/prateek-ratnakar)
