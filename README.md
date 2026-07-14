@@ -17,7 +17,7 @@
 | [Enterprise-GenAI-Adoption-Framework](https://github.com/prateek-ratnakar/Enterprise-GenAI-Adoption-Framework) | 0 → 43.2% adoption in two quarters · $9.9M saved · VP charter template |
 | [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | ML routing for 10M+ annual contacts · escalations down 90% |
 | [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | $99.4M single-cycle cost transformation · SQL templates · Kaizen frameworks |
-| [Enterprise GenAI Adoption Framework](#) | 0% → 43.2% adoption · $9.9M saved · VP charter template |
+|[ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | Zero-defect international launches · scaled 2 → 5 countries/year |
 
 
 PRATEEK RATNAKAR · BENGALURU · OPEN TO RELOCATION AND REMOTE · FIGURES MATCH RESUME AND INTERVIEW ANSWERS, ALWAYS
