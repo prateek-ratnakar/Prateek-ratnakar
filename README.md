@@ -1,6 +1,6 @@
 # Hi, I'm Prateek Ratnakar 👋
 
-**Senior Program Manager (Staff Track)** · GenAI Transformation · Global Ops · Amazon (8+ yrs)
+**Senior Technical Program Manager (Staff Track)** · GenAI Transformation · Global Ops · Amazon (9 yrs)
 
 🏆 Amazon North Star Award 2025 & 2021 · Business Leader of the Year 2019  
 🎓 IIT BHU · IIM Bangalore  
