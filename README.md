@@ -12,7 +12,7 @@ Bengaluru, India | Open to relocation and remote
 
 ## What is here
 
-I am a program leader, not a developer, and I do not read code. These repositories hold the playbooks, requirement documents and agent designs behind my work. Where a repository contains code, I designed it and Claude, an AI assistant, wrote the code to my specification.
+I am a program leader, not a software developer. I write SQL for analysis and I do not read application code. These repositories hold the playbooks, requirement documents and agent designs behind my work. Where a repository contains code, I designed it and Claude, an AI assistant, wrote the code to my specification.
 
 | Repo | What it covers |
 |---|---|
