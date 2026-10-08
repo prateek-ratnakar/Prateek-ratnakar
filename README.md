@@ -1,26 +1,25 @@
-# Hi, I'm Prateek Ratnakar 👋
+# Prateek Ratnakar
 
-**Senior Program Manager & TPM · GenAI and Agentic AI · $150M+ business impact · Amazon (9 yrs)**
+**AI Transformation and Program Leader | GenAI and Agentic AI | $150M+ business impact | 12 years, nine of them at Amazon**
 
-🏆 Amazon North Star Award 2025 & 2021 · Business Leader of the Year 2019
-🎓 IIT BHU · IIM Bangalore
-📍 Bengaluru, India · Open to relocation / remote
+Amazon North Star Award (2025 and 2021) | Business Leader of the Year (2019)
+IIT (BHU) Varanasi | IIM Bangalore
+Bengaluru, India | Open to relocation and remote
 
-🔗 **Portfolio: [prateek-ratnakar.github.io](https://prateek-ratnakar.github.io)** — five case records with baselines, results, and what I actually did
-💼 [linkedin.com/in/prateekratnakar](https://www.linkedin.com/in/prateekratnakar) · ✉️ prateek.ratnakar@gmail.com
+**Portfolio: [prateek-ratnakar.github.io](https://prateek-ratnakar.github.io)** - five case records with baselines, results, and what I actually did
 
-## What I build & share here
+[linkedin.com/in/prateekratnakar](https://www.linkedin.com/in/prateekratnakar) | prateek.ratnakar@gmail.com
+
+## What is here
+
+I am a program leader, not a developer, and I do not read code. These repositories hold the playbooks, requirement documents and agent designs behind my work. Where a repository contains code, I designed it and Claude, an AI assistant, wrote the code to my specification.
 
 | Repo | What it covers |
 |---|---|
-| [personal-agentic-ai-toolkit](https://github.com/prateek-ratnakar/personal-agentic-ai-toolkit) | Claude & Gemini agents I built end-to-end, no engineering team — job-search agent, shopping insights, resume pipeline with ATS verification |
-| [Enterprise-GenAI-Adoption-Framework](https://github.com/prateek-ratnakar/Enterprise-GenAI-Adoption-Framework) | 0 → 43.2% adoption in two quarters · $9.9M saved · VP charter template |
-| [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | ML routing for 10M+ annual contacts · escalations down 90% |
-| [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | $99.4M single-cycle cost transformation · SQL templates · Kaizen frameworks |
-|[ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | Zero-defect international launches · scaled 2 → 5 countries/year |
+| [personal-agentic-ai-toolkit](https://github.com/prateek-ratnakar/personal-agentic-ai-toolkit) | Personal Claude agents I designed: job-fit scoring with a grounding check and a human gate, a resume build-and-verify pipeline, and a shopping-insights agent |
+| [Enterprise-GenAI-Adoption-Framework](https://github.com/prateek-ratnakar/Enterprise-GenAI-Adoption-Framework) | Founding a GenAI program from a blank charter: adoption 0 to 43.2% in two quarters, 14 systems in production, with 12 more in a second wave, $9.9M annualized savings |
+| [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | Intelligent Priority Routing: 10M+ contacts a year, executive escalations down 90%, $5M in efficiency savings |
+| [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | A $99.4M single-cycle cost transformation across 10+ programs, and a $22.5M cut mandate reversed into a $30M savings roadmap |
+| [ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | A zero-defect Ireland launch and a move from two country launches a year to five |
 
-
-PRATEEK RATNAKAR · BENGALURU · OPEN TO RELOCATION AND REMOTE · FIGURES MATCH RESUME AND INTERVIEW ANSWERS, ALWAYS
-🔗 [LinkedIn](https://linkedin.com/in/prateekratnakar)
-
-*Every figure here matches my resume, my portfolio, and my interview answers.*
+*Every figure here matches my resume, my portfolio and my interview answers.*
