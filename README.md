@@ -1,25 +1,25 @@
-# Prateek Ratnakar
+<p align="center"><img src="assets/banner.svg" alt="Prateek Ratnakar - AI transformation and program leader" width="100%"></p>
 
-**AI Transformation and Program Leader | GenAI and Agentic AI | $150M+ business impact | 12 years, nine of them at Amazon**
+I build programs that do not exist yet, and the systems that keep them honest. Over 12 years, nine of them at Amazon, I have founded a GenAI and agentic AI program from a blank charter, reversed a $22.5M cost mandate into a $30M savings roadmap, and converged two global organizations onto one operating model across 27 marketplaces.
 
-Amazon North Star Award (2025 and 2021) | Business Leader of the Year (2019)
-IIT (BHU) Varanasi | IIM Bangalore
-Bengaluru, India | Open to relocation and remote
+**[Portfolio](https://prateek-ratnakar.github.io)** | [LinkedIn](https://www.linkedin.com/in/prateekratnakar) | prateek.ratnakar@gmail.com | Bengaluru, India, open to relocation and remote
 
-**Portfolio: [prateek-ratnakar.github.io](https://prateek-ratnakar.github.io)** - five case records with baselines, results, and what I actually did
+## The ledger
 
-[linkedin.com/in/prateekratnakar](https://www.linkedin.com/in/prateekratnakar) | prateek.ratnakar@gmail.com
+| Repository | What it shows | Headline figure |
+|---|---|---|
+| [Enterprise-GenAI-Adoption-Framework](https://github.com/prateek-ratnakar/Enterprise-GenAI-Adoption-Framework) | How I founded a GenAI program from a blank charter and made adoption the metric | Adoption 0 to 43.2% in two quarters; 14 systems in production, with 12 more in a second wave |
+| [personal-agentic-ai-toolkit](https://github.com/prateek-ratnakar/personal-agentic-ai-toolkit) | Personal Claude agents I designed: job-fit scoring with a grounding check and a human gate | Every number in a draft must trace to a verified source |
+| [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | The architecture and launch playbook behind Intelligent Priority Routing | 10M+ contacts a year; executive escalations down 90% |
+| [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | The method behind a single-cycle cost transformation, and a cut mandate I reversed | $99.4M in annualized savings; $22.5M cut reversed into a $30M roadmap |
+| [ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | The four-pillar playbook for launching operations in a new country | A zero-defect Ireland launch and a move from two country launches a year to five |
 
-## What is here
+## How I work
 
-I am a program leader, not a software developer. I write SQL for analysis and I do not read application code. These repositories hold the playbooks, requirement documents and agent designs behind my work. Where a repository contains code, I designed it and Claude, an AI assistant, wrote the code to my specification.
+I work at the architecture, requirements and evaluation layer. I design systems at diagram level, write the requirements, the prompts and the acceptance criteria, and write SQL for my own analysis. Implementation belongs to engineering, and I do not write or review application code. Where a repository here contains code, I designed it and Claude, an AI assistant, wrote it to my specification.
 
-| Repo | What it covers |
-|---|---|
-| [personal-agentic-ai-toolkit](https://github.com/prateek-ratnakar/personal-agentic-ai-toolkit) | Personal Claude agents I designed: job-fit scoring with a grounding check and a human gate, a resume build-and-verify pipeline, and a shopping-insights agent |
-| [Enterprise-GenAI-Adoption-Framework](https://github.com/prateek-ratnakar/Enterprise-GenAI-Adoption-Framework) | Founding a GenAI program from a blank charter: adoption 0 to 43.2% in two quarters, 14 systems in production, with 12 more in a second wave, $9.9M annualized savings |
-| [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | Intelligent Priority Routing: 10M+ contacts a year, executive escalations down 90%, $5M in efficiency savings |
-| [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | A $99.4M single-cycle cost transformation across 10+ programs, and a $22.5M cut mandate reversed into a $30M savings roadmap |
-| [ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | A zero-defect Ireland launch and a move from two country launches a year to five |
+## Recognition
+
+Amazon North Star Award (2025 and 2021) | Business Leader of the Year (2019) | IIT (BHU) Varanasi | IIM Bangalore
 
 *Every figure here matches my resume, my portfolio and my interview answers.*
