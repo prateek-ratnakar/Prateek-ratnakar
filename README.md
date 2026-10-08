@@ -13,6 +13,8 @@ I build programs that do not exist yet, and the systems that keep them honest. O
 | [intelligent-routing-framework](https://github.com/prateek-ratnakar/intelligent-routing-framework) | The architecture and launch playbook behind Intelligent Priority Routing | 10M+ contacts a year; executive escalations down 90% |
 | [ops-cost-transformation-toolkit](https://github.com/prateek-ratnakar/ops-cost-transformation-toolkit) | The method behind a single-cycle cost transformation, and a cut mandate I reversed | $99.4M in annualized savings; $22.5M cut reversed into a $30M roadmap |
 | [ops-market-launch-playbook](https://github.com/prateek-ratnakar/ops-market-launch-playbook) | The four-pillar playbook for launching operations in a new country | A zero-defect Ireland launch and a move from two country launches a year to five |
+| [agentic-enterprise-workflows](https://github.com/prateek-ratnakar/agentic-enterprise-workflows) | A working prototype: one policy-agnostic agent engine that runs three industry workflows as configuration, on synthetic data | No automatic decision without a retrieved policy clause; 10 design rules enforced as tests |
+| [workflow-value-architecture-kit](https://github.com/prateek-ratnakar/workflow-value-architecture-kit) | The working set that takes a process from how it runs to an AI-ready design with a value case | 8 artifacts across 4 process families, with an AI-readiness scorer |
 
 ## How I work
 
